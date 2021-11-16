@@ -1,12 +1,13 @@
 # Studenci
+
 Przedmiot PAB-1 2021Z
 
 Autorzy:
 
 <treść zadania>
 
-
 Wymagania:
+
 - Student składa się z następujących informacji:
   - Imię i nazwisko
   - Numer indeksu (unikalny w ramach uczelni)
