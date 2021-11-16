@@ -11,6 +11,7 @@ Wymagania:
   - Imię i nazwisko
   - Numer indeksu (unikalny w ramach uczelni)
   - Data urodzenia
+  - Kredyt
 - Przedmiot składa się z następujących informacji:
   - Nazwa
   - Kod
